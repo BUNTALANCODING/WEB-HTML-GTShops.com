@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
-
+body {
+    background-color: whitesmoke;
+}
 .gts-container-content{
-
     padding-bottom: 5rem;
 }
 
@@ -209,7 +210,7 @@ span.gts-btn-carousel-prev {
 }
 .product-grid .product-image a.image{ display: block; }
 .product-grid .product-image img{
-    width: 50%;
+    width: 25%;
     height: auto;
     transition: all 0.5s ease 0s;
 }
