@@ -6,6 +6,9 @@
     padding-bottom: 5rem;
 }
 
+.gts-container-carousel{
+    background-color: #00473e;
+}
 /* Navbar GTS */
 .gts-navbar {
     padding-left: 15rem;
@@ -96,7 +99,7 @@ span.gts-btn-carousel-prev {
 
 .gts-kategori{
     text-align: center;
-    margin-top: -4rem;
+    margin-top: 2rem;
     padding-left: 19rem;
     padding-right: 19rem;
 }
