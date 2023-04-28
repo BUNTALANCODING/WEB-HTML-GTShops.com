@@ -9,12 +9,6 @@
 padding-top: 5rem;
 }
 /* Navbar GTS */
-.gts-navbar {
-    padding-left: 15rem;
-    padding-right: 15rem;
-    height: auto;
-}
-
 .gts-btn-primary {
     width: 6rem;
     height: auto;
@@ -35,15 +29,15 @@ padding-top: 5rem;
     width: 6rem;
     height: auto;
     border-radius: 1rem 1rem 1rem 1rem;
-    border: 2px solid #475d5b;
-    color: #475d5b;
+    border: 2px solid #00473e;
+    color: #00473e;
 }
 
 .gts-btn-secondary:hover {
     width: 6rem;
     height: auto;
     border-radius: 1rem 1rem 1rem 1rem;
-    background: #475d5b;
+    background: #00473e;
     color: white;
 }
 
@@ -98,7 +92,6 @@ span.gts-btn-carousel-prev {
 
 .gts-kategori{
     text-align: center;
-    margin-top: 1rem;
     padding-left: 19rem;
     padding-right: 19rem;
 }
@@ -108,8 +101,8 @@ span.gts-btn-carousel-prev {
 }
 
 .gts-kategori-item{
-    height: 8rem;
-    border: 3px solid #475d5b;
+    height: 10rem;
+    border: 3px solid #00473e;
     background-color: white;
     width: 10rem;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.6px;
@@ -118,7 +111,7 @@ span.gts-btn-carousel-prev {
 }
 .gts-kategori-item:hover{
     height: 8rem;
-    border: 7px solid #475d5b;
+    border: 7px solid #00473e;
     background-color: white;
     width: 10rem;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.6px;
@@ -151,7 +144,7 @@ span.gts-btn-carousel-prev {
 
 .gts-konten-item{
     height: 15rem;
-    border: 3px solid #475d5b;
+    border: 3px solid #00473e;
     background-color: white;
     width: 10rem;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.6px;
@@ -161,7 +154,7 @@ span.gts-btn-carousel-prev {
 }
 .gts-konten-item:hover{
     height: 15rem;
-    border: 7px solid #475d5b;
+    border: 7px solid #00473e;
     background-color: white;
     width: 10rem;
     box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px 2.6px;
