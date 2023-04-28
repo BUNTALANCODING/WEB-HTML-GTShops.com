@@ -2,12 +2,11 @@
 
 .gts-container-content{
 
-    background-color: rgb(224, 225, 233);
     padding-bottom: 5rem;
 }
 
 .gts-container-carousel{
-    background-color: #00473e;
+padding-top: 5rem;
 }
 /* Navbar GTS */
 .gts-navbar {
@@ -99,7 +98,7 @@ span.gts-btn-carousel-prev {
 
 .gts-kategori{
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 1rem;
     padding-left: 19rem;
     padding-right: 19rem;
 }
@@ -178,9 +177,8 @@ span.gts-btn-carousel-prev {
 
 /* Footer GTS */
 .footer-clean {
-    background: #00473e;
     padding: 50px 0;
-    color: white;
+    color: rgb(0, 0, 0);
 }
 
 .footer-clean h3 {
